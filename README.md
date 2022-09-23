@@ -5,7 +5,7 @@
 - I'm constantly improving myself on these issues.<br>
 <br>
 - I’m currently working on Unity Game.<br>
-- I’m currently learning React, JavaScript and Python.<br> 
+- I’m currently learning Clean Architecture.<br> 
 - Contact: <strong style="background-color:blue; color:white;">mustafa_aktoz@hotmail.com</strong>
 
 ## Software Languages
