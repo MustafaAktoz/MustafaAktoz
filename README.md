@@ -2,8 +2,8 @@
   <div align="center">
   <h1>Hi, I'm Mustafa Aktoz</h1>
   <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=MustafaAktoz&show_icons=true&theme=tokyonight&hide_border=true"><img style="height: 180px; margin-left: 5px; margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=MustafaAktoz&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAktoz&layout=compact&theme=tokyonight&hide_border=true"><img style="height: 180px; margin-left: 5px; margin-right: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAktoz&layout=compact&theme=tokyonight&hide_border=true" alt=""/></a>
+    <a href="https://github.com/MustafaAktoz"><img style="height: 180px; margin-left: 5px; margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=MustafaAktoz&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/></a>
+    <a href="https://github.com/MustafaAktoz"><img style="height: 180px; margin-left: 5px; margin-right: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAktoz&layout=compact&theme=tokyonight&hide_border=true" alt=""/></a>
   </div>
     <div>
       <h2>Software Languages and Technologies</h2>
