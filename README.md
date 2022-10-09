@@ -21,6 +21,7 @@
       </div>
     </div>
   </div>
+  <br>
   <details>
     <summary><strong>About</strong></summary>
     <div>
