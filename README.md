@@ -35,7 +35,7 @@
   <details>
     <summary><strong>Contact</strong></summary>
     <div align="center">
-      <h2>Contant Addresses</h2>
+      <h2>Contact Addresses</h2>
       <a href="https://www.linkedin.com/in/mustafa-aktoz-694724223/"><img style="height: 60px; width: 60px; margin-left: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
     </div>
   </details>
