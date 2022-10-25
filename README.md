@@ -14,6 +14,7 @@
         <img style="height: 60px; width: 60px; margin-left: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
         <img style="height: 60px; width: 60px; margin-left: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
         <img style="height: 60px; width: 60px; margin-left: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NetCore"/>
+        <img style="height: 60px; width: 60px; margin-left: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
         <img style="height: 60px; width: 60px; margin-left: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/>
         <img style="height: 60px; width: 60px; margin-left: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"/>
         <img style="height: 60px; width: 60px; margin-left: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MicrosoftSQLServer"/>
